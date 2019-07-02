@@ -1,5 +1,4 @@
-Imports Microsoft.VisualBasic
-Imports System
+﻿Imports System
 Imports System.Data
 Imports System.Configuration
 Imports System.Collections
@@ -12,9 +11,11 @@ Imports System.Web.UI.HtmlControls
 Imports System.Collections.Generic
 Imports DevExpress.Web
 
+
 Namespace BindToList
 	Partial Public Class _Default
 		Inherits System.Web.UI.Page
+
 		Private statuses As List(Of BugStatus)
 		Protected Sub Page_Init(ByVal sender As Object, ByVal e As EventArgs)
 			ASPxGridView1.DataSource = Bug.GetBugList()
