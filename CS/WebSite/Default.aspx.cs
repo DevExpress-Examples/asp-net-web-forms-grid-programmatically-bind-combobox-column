@@ -9,8 +9,8 @@ using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
 using System.Collections.Generic;
-using DevExpress.Web.ASPxGridView;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
+
 
 namespace BindToList
 {
