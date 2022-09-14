@@ -3,23 +3,27 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E1351)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-
-* [Bug.cs](./CS/WebSite/Bug.cs) (VB: [Bug.vb](./VB/WebSite/Bug.vb))
-* [BugStatus.cs](./CS/WebSite/BugStatus.cs) (VB: [BugStatus.vb](./VB/WebSite/BugStatus.vb))
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
-<!-- default file list end -->
-# How to bind a ComboBox column programmatically in code behind
+# Grid View for ASP.NET Web Forms - How to bind a ComboBox column programmatically in code behind
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/128537725/)**
 <!-- run online end -->
+This example demonstrates how to use a list of business objects as a data source for a Grid View's ComboBox column.
 
+![Programmatically Bind Combo Box Column](bind-combobox-column.png)
 
-<p>This demo illustrates the capability to use a list of business objects as a datasource for a ComboBox column. It allows to avoid  populating combobox manually.<br />
-See also <a href="https://www.devexpress.com/Support/Center/p/E448">How to dynamically switch the grid's data source and recreate columns at runtime</a></p>
+## Files to Look At
 
-<br/>
+- [Bug.cs](./CS/Solution/Bug.cs) (VB: [Bug.vb](./VB/Solution/Bug.vb))
+- [BugStatus.cs](./CS/Solution/BugStatus.cs) (VB: [BugStatus.vb](./VB/Solution/BugStatus.vb))
+- [Default.aspx](./CS/Solution/Default.aspx) (VB: [Default.aspx](./VB/Solution/Default.aspx))
+- [Default.aspx.cs](./CS/Solution/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Solution/Default.aspx.vb))
 
+## Documentation
 
+- [Grid View - Bind to Data](https://docs.devexpress.com/AspNet/3719/components/grid-view/concepts/bind-to-data)
+- [Combo Box - Bind to Data](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxComboBox#bind-to-data)
+
+## More Examples
+
+- [Grid View for ASP.NET Web Forms - How to dynamically switch the Grid's data source and recreate columns at runtime](https://www.devexpress.com/Support/Center/p/E448)
+- [Grid View for ASP.NET Web Forms - How to bind a Combo Box column to data based on the row index in batch edit mode](https://supportcenter.devexpress.com/ticket/details/t190978/grid-view-for-asp-net-web-forms-how-to-bind-a-combo-box-column-to-data-based-on-the-row)
