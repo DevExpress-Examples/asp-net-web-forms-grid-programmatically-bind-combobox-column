@@ -13,7 +13,7 @@
 <!-- default file list end -->
 # How to bind a ComboBox column programmatically in code behind
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1351/)**
+**[[Run Online]](https://codecentral.devexpress.com/128537725/)**
 <!-- run online end -->
 
 
