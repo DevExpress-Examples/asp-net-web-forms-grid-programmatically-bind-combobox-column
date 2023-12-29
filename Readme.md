@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to bind a ComboBox column programmatically in code behind
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128537725/)**
-<!-- run online end -->
 This example demonstrates how to use a list of business objects as a data source for a Grid View's ComboBox column.
 
 ![Programmatically Bind Combo Box Column](bind-combobox-column.png)
