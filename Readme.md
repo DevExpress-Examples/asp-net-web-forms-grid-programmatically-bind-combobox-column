@@ -11,9 +11,6 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to bind a ComboBox column programmatically in code behind
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1351/)**
-<!-- run online end -->
 
 
 <p>This demo illustrates the capability to use a list of business objects as a datasource for a ComboBox column. It allows to avoid  populating combobox manually.<br />
