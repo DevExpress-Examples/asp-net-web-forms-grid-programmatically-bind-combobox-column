@@ -26,7 +26,7 @@ This example demonstrates how to use a list of business objects as a data source
 - [Grid View for ASP.NET Web Forms - How to dynamically switch the Grid's data source and recreate columns at runtime](https://www.devexpress.com/Support/Center/p/E448)
 - [Grid View for ASP.NET Web Forms - How to bind a Combo Box column to data based on the row index in batch edit mode](https://supportcenter.devexpress.com/ticket/details/t190978/grid-view-for-asp-net-web-forms-how-to-bind-a-combo-box-column-to-data-based-on-the-row)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-programmatically-bind-combobox-column&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-programmatically-bind-combobox-column&~~~was_helpful=no)
 
